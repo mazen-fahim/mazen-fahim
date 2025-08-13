@@ -3,7 +3,7 @@
 <!-- Visitor counters (pick ONE and keep it near the top): -->
 <!-- Option A: Simple profile views counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mazen-fahim&label=Profile%20views&style=for-the-badge" alt="Profile views" />
 </p>
 
 <!-- Option B: Hits counter (customizable colors). Uncomment if you prefer it over Option A. -->
@@ -15,15 +15,7 @@
 </p>
 -->
 
-# Hi, I'm YOUR_NAME 👋
-
-Short tagline about you (e.g., "Full‑stack developer • Laravel/Vue • IoT tinkerer")
-
-- 🔭 I’m currently working on: YOUR_CURRENT_PROJECT
-- 🌱 Learning: YOUR_LEARNING_TOPICS
-- 💬 Ask me about: YOUR_EXPERTISE
-- 📫 How to reach me: YOUR_EMAIL or social links
-- ⚡ Fun fact: YOUR_FUN_FACT
+# Hi, I'm Mazen Fahim 👋
 
 ---
 
