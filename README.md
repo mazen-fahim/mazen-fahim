@@ -51,5 +51,3 @@ frontend:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazenfahim/)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://mazen-blog.netlify.app/)
-
----
