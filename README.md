@@ -66,7 +66,7 @@
 
 ### 🔗 Links
 
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mazenfahim/)
-- Blog: [YOUR_PORTFOLIO_URL](https://mazen-blog.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazenfahim/)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://mazen-blog.netlify.app/)
 
 ---
