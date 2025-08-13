@@ -1,21 +1,8 @@
-<!-- Replace EVERYWHERE you see YOUR_USERNAME with your actual GitHub username -->
-
-<!-- Visitor counters (pick ONE and keep it near the top): -->
-<!-- Option A: Simple profile views counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mazen-fahim&label=Profile%20views&style=for-the-badge" alt="Profile views" />
 </p>
 
-
-<p align="left">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmazen-fahim%2Fmazen-fahim&title=Visitors&edge_flat=false" alt="Visitors" />
-  </a>
-</p>
-
 # Hi, I'm Mazen Fahim 👋
-
----
 
 ### 🧰 Web
 
@@ -43,7 +30,7 @@ frontend:
 ![Verilog](https://img.shields.io/badge/Verilog-333?logo=verilog&logoColor=white)
 ![C](https://img.shields.io/badge/C-333?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-333?logo=c++&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-333?logo=cmakelogoColor=white)
+![CMake](https://img.shields.io/badge/CMake-333?logo=cmake&logoColor=white)
 
 
 ![Arduino](https://img.shields.io/badge/Arduino-333?logo=arduino&logoColor=white)
@@ -53,12 +40,14 @@ frontend:
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mazen-fahim&show_icons=true&include_all_commits=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazen-fahim" height="165" />
 </p>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazen-fahim&layout=compact" height="165" />
+</p>
 
 ---
 
