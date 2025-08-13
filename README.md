@@ -6,14 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=mazen-fahim&label=Profile%20views&style=for-the-badge" alt="Profile views" />
 </p>
 
-<!-- Option B: Hits counter (customizable colors). Uncomment if you prefer it over Option A. -->
-<!--
+
 <p align="left">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME%2FYOUR_USERNAME&title=Visitors&edge_flat=false" alt="Visitors" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmazen-fahim%2Fmazen-fahim&title=Visitors&edge_flat=false" alt="Visitors" />
   </a>
 </p>
--->
 
 # Hi, I'm Mazen Fahim 👋
 
