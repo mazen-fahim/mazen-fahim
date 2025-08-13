@@ -27,16 +27,36 @@ Short tagline about you (e.g., "Full‑stack developer • Laravel/Vue • IoT t
 
 ---
 
-### 🧰 Tech & Tools
+### 🧰 Web
 
-<!-- Example badge strip; keep or customize -->
 ![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-333?logo=bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-333?logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-333?logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-333?logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-333?logo=typescript&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-333?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-333?logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-333?logo=react&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-333?logo=tailwindcss&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-333?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-333?logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-333?logo=vue.js&logoColor=white)
+
+---
+### 🧰 Low Level
+
+![Verilog](https://img.shields.io/badge/Verilog-333?logo=verilog&logoColor=white)
+![C](https://img.shields.io/badge/C-333?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-333?logo=c++&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-333?logo=cmakelogoColor=white)
+
+
+![Arduino](https://img.shields.io/badge/Arduino-333?logo=arduino&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-333?logo=avr&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-333?logo=stm32&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-333?logo=esp32&logoColor=white)
 
 ---
 
