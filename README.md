@@ -28,11 +28,9 @@ frontend:
 ### 🧰 Low Level
 
 ![C](https://img.shields.io/badge/C-333)
-![C++](https://img.shields.io/badge/C++-333?logo=c++&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-333?logo=cmake&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-333?logo=verilog&logoColor=white)
-
-
+![C++](https://img.shields.io/badge/C++-333)
+![CMake](https://img.shields.io/badge/CMake-333)
+![Verilog](https://img.shields.io/badge/Verilog-333)
 ![Arduino](https://img.shields.io/badge/Arduino-333?logo=arduino&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-333?logo=avr&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-333?logo=stm32&logoColor=white)
